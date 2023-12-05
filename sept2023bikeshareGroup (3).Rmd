@@ -1,6 +1,6 @@
 ---
 title: "September 2023 BikeShare Data Analysis"
-author: "Naida Torres"
+author: "Claudia LaPlant"
 date: "2023-11-06"
 output: html_document
 ---
